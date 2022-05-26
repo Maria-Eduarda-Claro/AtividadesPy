@@ -1,4 +1,4 @@
 # AtividadesPy
-Lista de revisão pensamento computacional 
-Prof Alexandre. 
-Primeira atividade em Python!!!
+PASTE DE ATIVIDADES EM PYTHON!
+25/05/2022
+
