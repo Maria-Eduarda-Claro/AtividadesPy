@@ -4,11 +4,12 @@
 peso_peixes = float(input('informe o peso dos peixes:'))
 
 if (peso_peixes >50):
-excesso = (peso_peixes - 50)
+   excesso = (peso_peixes - 50)
 
-multa = 4 * excesso 
-print('João pescou mais que o permitido, por isso gerou multa', multa)
+   multa = 4 * excesso 
+   print('João pescou mais que o permitido, por isso gerou multa', multa)
 
-else (peso_peixes <=50):
-print('João pescou dentro das normas', peso_peixes)
+else:
+   
+   print('João pescou dentro das normas', peso_peixes)
     
