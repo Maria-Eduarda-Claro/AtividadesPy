@@ -1,4 +1,5 @@
 # AtividadesPy
 PASTE DE ATIVIDADES EM PYTHON!
 25/05/2022
+:)
 
